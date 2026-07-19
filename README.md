@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:36BCF7,100:a78bfa&height=200&section=header&text=skybreakerW&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20X%20Blockchain%20Developer&descAlignY=58&descColor=c4b5fd&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+clean+and+scalable+webapps!+%F0%9F%93%88;Python+%7C+Typescript+%7C+Solidity+%7C+JavaScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&width=600&lines=Building+clean+and+scalable+webapps!%F0%9F%93%88;Python+%7C+TypeScript+%7C+Solidity+%7C+JavaScript)](https://git.io/typing-svg)
 
 <br/>
 
