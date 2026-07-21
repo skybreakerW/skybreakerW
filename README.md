@@ -16,11 +16,6 @@
 
 ---
 
-## 🧠 About Me
-
-xyz
-
----
 
 ## 🛠️ Tech Stack
 
